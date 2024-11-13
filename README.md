@@ -26,6 +26,11 @@ This repository contains the resources and results of our **Semantic Similarity 
   - `TF-IDF Spearman Rank Correlation`: Spearman rank correlation coefficient for TF-IDF (only on the first row).
   - `BoW/True`: Ratio of BoW predicted score to the actual similarity score.
   - `TF-IDF/True`: Ratio of TF-IDF predicted score to the actual similarity score.
+    
+### Usage
+
+- Run `sum.py` to process the data and save results to `processed_train.csv`.
+
 
 ### Visualizations
 
